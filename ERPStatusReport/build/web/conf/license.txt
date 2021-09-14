@@ -1,0 +1,9 @@
+client=presentation license
+ELO-version=Professional
+ERP-system=--
+license-type=100 ERP-user
+product=DOKinform ERPconnector for ELO
+ELO-key=presentation license
+expiration-date=Fri Dec 31 00:00:00 CET 2100
+bytes2=58ec474dd3f0f9dcd6c4adde424e87d7b0240627
+bytes1=958505d8653af5202219eb33d761ebdfee1081a9

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+    <description>ERPconnector by Arivato GmbH</description>
+    <display-name>DOKInform ERPconnector</display-name>
+    <servlet>
+        <description>Starts and stops the service</description>
+        <servlet-name>ConnectorServlet</servlet-name>
+        <servlet-class>de.di.erpconnect.web.ConnectorServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+</web-app>

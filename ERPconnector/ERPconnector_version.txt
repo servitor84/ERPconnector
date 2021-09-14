@@ -1,0 +1,62 @@
+Versionsgeschichte DOKinform ERPconnector
+===================================================================
+
+20.0 (build 00226)    04.06.2021    Anpassungen für ELO20
+10.0 (build 00222)    02.06.2021    ELOIX Lib von ELO20 eingefügt + Code angepasst
+10.0 (build 00214)    08.10.2019    Lizenzcheck für ELO12:!serno.equals(client.getValue) mit !serno.contains(client.getValue) ersetzt
+10.0 (build 00170)    26.06.2018    8 Java Klassen in den ERPconnector hinzugefügt
+10.0 (build 00168)    26.06.2018    Leere Datei data.pkg zum Testen
+10.0 (build 00166)    06.03.2018    Bug by displaying the program version in the status page in the first row, second column of the table FIXED + literal mistake "Coyright" to "Copyright"
+10.0 (build 00160)    21.12.2017    Save mechanism in 
+                           servicename
+                           \conf deleted
+10.0 (build 00158)    21.12.2017    put save mechanism again because an error ... 
+10.0 (build 00156)    21.12.2017    save mechanism of data.pkg in 
+                           servicename
+                           \conf deleted
+10.0 (build 00154)    21.12.2017    Build process fixed
+10.0    21.12.2017    Version changed to 10.0 + company name changed
+9.0.0    07.11.2017    Import.PollTime ===> Trigger.PollTime - ELOERPClient.java
+9.0.0    06.11.2017    arivato ===> di
+9.0.0    26.05.2016    Checking xml template file is now case insensitive
+9.0.0 (build 00119)    26.05.2016    Template key from txt file can be found as 'Template' or 'TEMPLATE'
+9.0.0 (build 00119)    19.05.2016    Solved bug 82. Removed the second log file
+9.0.0 (build 00117)    19.05.2016    Solved config bug : "Index.ServerURL" -> "IndexServer.URL"
+7.0.3 (build 00045)    17.06.2015    Test
+9.0.0 (Build .44)    08.06.2015    Test
+9.0.0 (Build .43)    08.06.2015    Resolved issue
+9.0.0 (Build .42)    08.06.2015    Resolved the bugs submitted in testData
+9.0.0 (Build .28)    26.05.2015    test
+9.0.0 (Build .27)    26.05.2015    test
+9.0.0 (Build .26)    26.05.2015    Test build
+9.0.0 (Build .25)    26.05.2015    tere
+9.0.0 (Build .24)    26.05.2015    Test for bugs
+9.0.0 (Build .23)    26.05.2015    Test pentru ultimele buguri
+9.0.0 (Build .22)    26.05.2015    Test 26.05.2015 / Bugs
+9.0.0 (Build .21)    20.05.2015    das
+9.0.0 (Build .20)    20.05.2015    for testing purpose for path of
+9.0.0 (Build .19)    19.05.2015    dsa
+9.0.0 (Build .18)    19.05.2015    adas
+9.0.0 (Build .17)    19.05.2015    ads
+9.0.0 (Build .16)    19.05.2015    fds
+9.0.0 (Build .16)    19.05.2015    dsa
+9.0.0 (Build .16)    19.05.2015    dsa
+9.0.0 (Build .15)    19.05.2015    test
+9.0.0 (Build .15)    19.05.2015    das
+9.0.0 (Build .15)    19.05.2015    asd
+9.0.0 (Build .15)    19.05.2015    sda
+9.0.0 (Build .15)    19.05.2015    fsd
+9.0.0 (Build .15)    19.05.2015    dsa
+9.0.0 (Build .15)    19.05.2015    sad
+9.0.0 (Build .15)    19.05.2015    test
+9.0.0 (Build .14)    19.05.2015    test
+9.0.0 (Build .14)    19.05.2015    das
+9.0.0 (Build .13)    19.05.2015    dsad
+9.0.0 (Build .12)    19.05.2015    czx
+9.0.0 (Build .11)    19.05.2015    fsd
+9.0.0 (Build .10)    19.05.2015    da
+9.0.0 (Build .9)    19.05.2015    Test pentru final
+9.0.0 (Build .8)    19.05.2015    das
+9.0.0 (Build .7)    19.05.2015    da
+9.0.0 (Build .7)    19.05.2015    fsd
+9.0.0 (Build .6)    19.05.2015    Test compilare proiect

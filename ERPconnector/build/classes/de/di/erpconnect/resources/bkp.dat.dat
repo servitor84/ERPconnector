@@ -1,0 +1,118 @@
+
+//            de.di.license.check.DataCollection data = null;
+//            URL dataURL = null;
+//            boolean checkCountFile = false;
+//            int currentClientCount = 1;
+//            int maxClientCount = 1;
+//            dataURL = ClassLoader.getSystemResource("de/di/erpconnect/web/data.pkg");
+//            try {
+//                if (dataURL != null) {
+//                    data = de.di.license.check.DataCollection.fromFile(new File(dataURL.toURI()));
+//                } else {
+//                    checkCountFile = true;
+//                }
+//            } catch (URISyntaxException uriex) {
+//                checkCountFile = true;
+//            } catch (IOException ioex) {
+//                checkCountFile = true;
+//            } catch (ClassNotFoundException classex) {
+//                checkCountFile = true;
+//            } catch (Exception ex) {
+//                checkCountFile = true;
+//            } finally {
+//                if (data == null) {
+//                    data = new de.di.license.check.DataCollection();
+//                }
+//
+//                currentClientCount = data.getSize();
+//            }
+//
+//            // Hier wird extra.porperties getestet
+//            if (checkCountFile) {
+//                File configDir = new File(this.configURI);
+//                File inputFile = new File(configDir, "extra.properties");
+//                ClientCountFile countFile = null;
+//                try {
+//                    countFile = ClientCountFile.readFromFile(inputFile);
+//                    currentClientCount = countFile.getClientCount();
+//                } catch (IOException ioex) {
+//                }
+//
+//                // Hier wird die data.pgk gestestet
+//                try {
+//                    if (dataURL == null) {
+//                        dataURL = getContextClassLoader().getResource("de/di/erpconnect/web");
+//
+//                        if (dataURL != null) {
+//                            try {
+//                                File dataFile = new File(new File(dataURL.toURI()), "data.pkg");
+//                                if (dataFile.createNewFile()) {
+//                                    dataURL = dataFile.toURI().toURL();
+//                                }
+//                            } catch (Exception ex) {
+//                                dataURL = null;
+//                            }
+//                        }
+//                    }
+//                    data.save(dataPKG);
+//
+//                    if (countFile == null) {
+//                        countFile = new ClientCountFile();
+//                        countFile.setClientCount(data.getSize());
+//                    }
+//                    countFile.save(inputFile);
+//                } catch (IOException ioex) {
+//                    throw new ERPConnect.StartUpException("Unable to start the service. Missing data file.");
+//                } 
+////                catch (URISyntaxException uriex) {
+////                    throw new ERPConnect.StartUpException("Unable to start the service. Data file not found.");
+////                }
+//            }
+//            try {
+//                ELOERPLicenseChecker checker = new ELOERPLicenseChecker((String) this.status.get("product"));
+//                checker.setSettings(settings);
+//                LicenseKey key;
+//                if (this.licenseStream != null) {
+//                    key = LicenseKey.readFromFile(this.licenseStream);
+//                    this.licenseStream.close();
+//                } else {
+//                    key = LicenseKey.readFromFile(new File("conf/license.txt"));
+//                }
+//
+//                checker.check(key, checker.getRounds());
+//
+//                Pattern pattern = Pattern.compile("^(\\d+)\\s.*");
+//                Matcher matcher = pattern.matcher(key.getAttribute("license-type").getValue());
+//                String clients = "";
+//
+//                if (matcher.matches()) {
+//                    clients = matcher.group();
+//                }
+//                try {
+//                    maxClientCount = Integer.parseInt(clients);
+//                } catch (NumberFormatException nfe) {
+//                }
+//                if (currentClientCount > maxClientCount) {
+//                    throw new LicenseException("Client count exceeded. Only " + maxClientCount + " clients allowed");
+//                }
+//
+////                this.logger.trace("Client count: " + currentClientCount + " Max: " + maxClientCount);
+//                this.status.put("Basic.MaxFilesPerRun", settings.getProperty("Basic.MaxFilesPerRun"));
+//                this.status.put("client", key.getAttribute("client").getValue());
+//                this.status.put("ELO_version", key.getAttribute("ELO-version").getValue());
+//                this.status.put("ERP_system", key.getAttribute("ERP-system").getValue());
+//                this.status.put("license_type", key.getAttribute("license-type").getValue());
+//                this.status.put("expiration_date", DateFormat.getDateInstance().format(key.getExpirationDate()));
+//                this.status.put("license_key", key.getAttribute("bytes2").getValue());
+
+//                checker = null;
+//            } catch (LicenseException lex) {
+//                this.logger.fatal("License violation detected: " + lex.getMessage());
+//                throw new ERPConnect.StartUpException();
+//            } catch (IOException ioex) {
+//                this.logger.fatal("License check file corrupted", ioex);
+//                throw new ERPConnect.StartUpException();
+//            } catch (NoSuchAlgorithmException ex) {
+//                this.logger.fatal("License check not possible");
+//                throw new ERPConnect.StartUpException();
+//            }

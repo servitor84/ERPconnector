@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="ERPStatusReport" default="default" basedir=".">
+    <description>Builds, tests, and runs the project ERPconnector.</description>
+    <import file="nbproject/build-impl.xml"/>
+    <property file="build.properties" />
+
+    <target name="-post-dist">
+        <basename file="${dist.war}" property="dist.warfile" suffix=".war"/>
+        <property file="${product.dir.jarProps}"/> 
+        <jar destfile="${basedir}/dist/${ant.project.name}.war" basedir="${dir.build.web}" excludes="conf/*"> <!-- (update="true") -->
+            <fileset file="${product.dir.jar}/${product.jar.name}_version.txt" />
+        </jar> 
+        
+        <!-- create a duplicate of the war file with standardconf -->
+        <jar destfile="${basedir}/dist/${ant.project.name}.war" update="true">  
+           <fileset dir="${basedir}/src/standardconf" />              
+        </jar> 
+        <!-- END -->
+        
+        <copy file="${product.dir.jar}/${product.jar.name}_version.html" tofile="${product.dir.deploy}/${product.jar.name}_version.html"/>
+        <copy file="${product.dir.jar}/${product.jar.name}_version.txt" tofile="${product.dir.deploy}/${product.jar.name}_version.txt"/>
+        <copy file="${basedir}/dist/${ant.project.name}.war" tofile="${product.dir.deploy}/${product.jar.name}.war"/>
+        <copy file="${basedir}/dist/${ant.project.name}.war" tofile="${product.dir.deploy}/${product.jar.name}_${app.build}.war"/>
+    </target>
+    
+</project>

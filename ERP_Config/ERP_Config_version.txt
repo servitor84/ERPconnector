@@ -1,0 +1,12 @@
+Versionsgeschichte DOKinform ERP_Config
+===================================================================
+
+2.0.0    28.06.2018    logger für das Lesen der Datei data.pkg
+2.0.0    06.11.2017    arivato ===> di
+2.0.0    29.09.2016    Added 'Basic.ServiceName' setting check on save
+2.0.0    19.05.2016    Solved config bug : "Index.ServerURL" -> "IndexServer.URL"
+2.0.0    03.06.2015    Build for testing Purposes Beta version
+2.0.0    03.06.2015    Test
+2.0.0    03.06.2015    test
+2.0.0    03.06.2015    test2
+2.0.0    03.06.2015    test

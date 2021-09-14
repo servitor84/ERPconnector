@@ -1,0 +1,28 @@
+                    Windows-
+                    Druckertestseite
+Konfiguration abgeschlossen
+Wenn Sie diese Informationen lesen können, wurde der PDFCreator richtig auf
+NB-LEN installiert.
+Nachfolgend finden Sie Informationen über den Druckertreiber und die
+Anschlusseinstellungen.
+Gesendet:           09:54:58 24.03.2014
+Computername:       NB-LEN
+Druckername:        DOKinformPDF_Postbox
+Druckermodell:      PDFCreator
+Farbdrucker:        Ja
+Anschlussname(n):   pdfcmon
+Datenformat:        RAW
+Freigabename:       DOKinformPDF_Postbox
+Kommentar:          eDoc Printer
+Treibername:        PSCRIPT5.DLL
+Datendatei:         PDFCREAT.PPD
+Konfig.-Datei:      PS5UI.DLL
+Hilfedatei:         PSCRIPT.HLP
+Treiberversion:     6.00
+Umgebung:           Windows x64
+Standarddatentyp:   RAW
+Zusätzliche Treiberdateien:
+ C:\Windows\system32\spool\DRIVERS\x64\3\PS_SCHM.GDL
+ C:\Windows\system32\spool\DRIVERS\x64\3\PSCRIPT.NTF
+Dies ist das Ende der Testseite.
+

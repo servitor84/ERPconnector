@@ -1,0 +1,323 @@
+*EJE1085*
+                               ®
+Zwischen                  ELO Digital Office GmbH
+                          Heilbronner Straße 150
+
+Auftragnehmer:            70191 Stuttgart
+
+Und                       ARIVATO GmbH
+                          Karlstr. 5
+
+Auftraggeber:             64367 Mühltal
+
+ELO-Kundennummer          11378
+
+
+
+Lizenzbestellung          gemäß nachfolgendem Bestell-/ Systemschein
+
+Beginn der Laufzeit des
+                          01.11.2013
+SW-PUS-Vertrages
+
+Ende der Laufzeit des     unbefristet
+SW-PUS-Vertrages
+
+Zahlungsweise             jährlich
+
+Software-Pflegesatz       18 %
+
+Zahlungsweise             Rechnung
+
+Fälligkeit                Zum 1. des Abrechnungsmonats, der sich aus der
+                          Zahlungsweise ergibt
+
+Zahlungsfrist             14 Tage ­ netto, kein Skontoabzug statthaft
+                          Hartmetallwerkzeugfabrik Andreas Maier GmbH
+Endkunde/ Installation
+                          Stegwiesen 2
+
+                          D - 88477 Schwendi
+
+Vertragsnummer            11378 ­1085/2013 ­ 17.10.2013
+                          [(BP-Kundennummer bei ELO)-(lfd. Nr./Jahr) ­ (Ausstellungsdatum)]
+
+Mit der Annahme dieser Bestellung durch ELO kommt der Vertrag zustande und wird durch Lieferung und
+Leistung der Lizenzen von ELO an Sie erfüllt. Eine gesonderte Unterzeichnung dieser Bestellung durch
+ELO ist somit nicht mehr erforderlich.
+
+Für Auftraggeber [ELO-Business Partner]
+
+Mühltal, 17.10.2013
+
+
+
+Uwe Gross
+Allgemeine Vertragsbedingungen - SW-PUS-AV
+§1       Zielsetzung
+
+(1) Durch den Software-Pflege- und Update-Service-Vertrag werden der Leistungsumfang für die Pflege und der Bezug von
+Aktualisierungen zwischen dem Auftragnehmer und dem Auftraggeber in Gestalt eines Update- und eines Hotline-Services geregelt.
+
+(2) Durch den Abschluss dieser Vereinbarung wird der Auftraggeber ermächtigt, entsprechende Software-Pflege- und
+Update-Service-Verträge mit den eigenen Kunden im eigenen Namen und auf eigene Rechnung über Pflege und Update der von
+ELO hergestellten Softwareprodukte sowie von ELO hierfür freigegebenen Module abzuschließen. Dadurch erhält der Endkunde
+einen Anspruch auf eine gewissenhafte Fehlerkorrektur der letzten Programmversion, jedoch nur bis zur Kündigung des Software
+Pflege- bzw. Update-Service-Vertrages bzw. der Ablösung durch eine andere vertragliche Regelung.
+
+(3) Ausschließlich nicht unter diese Ermächtigung fallen Drittkomponenten von so gekennzeichneten Fremdherstellern, wie z.B.
+Microsoft oder Oracle als Hersteller der eingesetzten SQL-Datenbanken. Für diese nicht unter diese Ermächtigung fallenden
+Verträge mit den Endkunden ist inhaltlich und rechtlich ausschließlich der Auftraggeber verantwortlich. Mögliche Schadensersatz-
+bzw. Haftungsansprüche von Endkunden gegenüber dem Auftragnehmer werden ausgeschlossen, es sei denn, es liegt eine
+Verursachung und Verantwortung des Auftragnehmers vor.
+
+§2       Update-Service
+
+(1) Der Update-Service soll die dem Auftraggeber überlassenen Programme auf den jeweils neuesten vom Auftragnehmer
+freigegebenen Stand bringen und Fehler, die dem Auftragnehmer bekannt sind, lösen bzw. umgehen, um so einen sinnvollen work
+around zu ermöglichen. Hierzu erhält der Auftraggeber die von dem Auftragnehmer weiterentwickelten Programmversionen der
+jeweiligen Software-Pakete und der Module, die Gegenstand dieser Vereinbarung sind und die sich auf eine konkrete
+Kundeninstallation beziehen, für die der Auftragnehmer seinerseits den Pflege- und Update-Service vertraglich übernimmt. Der
+Auftragnehmer bringt hierzu unter Vertrag stehende Softwaremodule des Auftraggebers entweder durch Ergänzungslieferungen
+oder durch Bereitstellen der Neuerungen aus dem ,,geschlossenen Partnerforum der ELO-Homepage" auf den neuesten
+freigegebenen Stand:
+
+     sog. Patches zum Bugfixing (Programmfehler)
+
+     Servicepacks zur erweiterten Fehlerbeseitigung
+
+     Updates, d.h. verbesserte Programmversionen der Lizenzsoftware -sog. Minor-Releases,
+
+     Upgrades, d.h. weiterentwickelte Programmversionen der Lizenzsoftware ­ sog. Major-Releases
+
+(2) Die Installation der im Rahmen dieses Vertrages gelieferten Software ist nicht Gegenstand dieses Vertrages und bedarf einer
+gesonderten Vereinbarung. Bei Inanspruchnahme des Auftragnehmers erfolgt gesonderte Berechnung nach
+Auftragnehmer-Tagessätzen gemäß den Reisekosten und Dienstleistungssätzen dieses Vertrages [SW-PUS-RK/DLS] oder nach
+Aufwand.
+
+(3) Die Pflegeleistung des Auftragnehmers umfasst die Beseitigung von Fehlern in der vom Auftragnehmer gelieferten Software und
+den zur Verfügung gestellten Dokumentationsunterlagen auch über die Garantiezeit hinaus. Die Pflege von Erweiterungen,
+Ergänzungen, Scriptings oder sonstige Weiterentwicklungen oder Customizings, die seitens des ELO Business Partners oder des
+Endkunden vorgenommen wurden, ist hiervon hingegen nicht gedeckt.
+
+(4) Sofern zur Aktualisierung speziell erstellte Datenträger erforderlich sind, erfolgt eine Pauschalberechnung in Höhe von 15,00 
+zzgl. Versandkosten.
+
+(5) ELO-Software-Aktualisierungen werden ausschließlich für Software erbracht, für die eine entsprechende Softwarelizenz beim
+Auftragnehmer rechtmäßig erworben wurde.
+
+(6) Zur Leistung ist der Auftragnehmer nur dann verpflichtet, wenn der Auftraggeber die jeweils neueste und freigegebene Fassung
+der ELO-Software und Module sowie die jeweils freigegebene und für die Kundenkonstellation und Systemumgebung empfohlene
+Fassung erforderlicher systemnaher Software einsetzt.
+
+(7) Durch den Abschluss dieses Software Pflege- und Update-Service-Vertrages erwirbt der Auftraggeber damit gleichzeitig die
+Nutzungsrechte derjenigen Software und Module, die ihm in Erfüllung dieses Vertrages überlassen werden. Dies gilt nur, sofern sich
+die Vertragsleistung auf rechtmäßig bei dem Auftragnehmer bezogenen Software-Nutzungslizenzen bezieht.
+
+§3       Hotline-Service
+
+(1) Telefonische und schriftliche (E-Mail) Beratung hinsichtlich der im Einsatz befindlichen rechtmäßig beim Auftragnehmer
+bezogenen Software und Module (Montag bis Freitag innerhalb der Geschäftszeiten des Auftragnehmers. Als die Reaktionszeit beim
+Auftreten von Fehlern sowie für die Nachbesserungszeit wird folgender Zeitrahmen vereinbart:
+Mo.-Do.: 9.00 - 17.00 Uhr; Fr.:           9.00 ­ 15.00 Uhr.
+In dieser Zeit steht eine Hotline für den Auftraggeber zur Verfügung.
+
+Der Zeitrahmen für die Reaktionszeit beim Auftreten von Programmfehlern sowie für die Nachbesserungszeit wird folgendermaßen
+vereinbart:
+Priorität              1:
+Reaktionszeit:         8 Std. (innerhalb der o.a. Arbeitszeit)
+Nachbesserungszeit:    3 Arbeitstage
+Fehlerbeispiel:        Totalausfall des Systems
+
+Priorität              2:
+Reaktionszeit:         8 Std. (innerhalb der o.a. Arbeitszeit)
+Nachbesserungszeit:    5 Arbeitstage
+Fehlerbeispiel:        Ausfall einzelner Programmteile
+
+Priorität           3:
+Reaktionszeit:      24 Std. (innerhalb der o.a. Arbeitszeit)
+Nachbesserungszeit: Nächstes Release: in Absprache erfolgt eine einvernehmliche Einstufung in Prioritäten, diese entscheidet
+                    darüber, ob die Umsetzung im nächsten Minor- oder im nächsten Major-Release erfolg
+Fehlerbeispiel:     Fehler, die den Produktionsablauf nicht wesentlich behindern
+
+
+
+(2) Die Hotline Telefonnummer wird nach der Vertrags-unterzeichnung mitgeteilt. Ausgenommen hiervon sind Sonn- und Feiertage
+sowie grundsätzlich die Wochenenden. Es gilt die Feiertagsregelung des Landes Baden-Württemberg.
+
+(3) Der Auftraggeber hat im Rahmen seiner Möglichkeiten den Auftragnehmer bei der Beseitigung von Fehlern zu unterstützen.
+
+(4) Sollte der Auftragnehmer zur Programmfehlerbeseitigung vor Ort aufgefordert werden und es stellt sich nachträglich heraus, dass
+der Auftragnehmer die Programmfehlerursache nicht zu vertreten hat, ist der Auftragnehmer berechtigt, die ihm mit diesem Einsatz
+entstandenen Kosten (gemäß Anlage SW-PUS-Reisekosten- und Dienstleistungssätze) dem Auftraggeber in Rechnung zu stellen.
+
+§4        Vergütung
+
+(1) Die genaue Auflistung der zu pflegenden Software und Module, der jeweilige Pflegesatz sowie die daraus resultierenden
+Gebühren erfolgt im Systemschein ­SW-PUS-S.
+
+(2) Diese hiernach anfallenden Gebühren verstehen sich als Festpreise für jeweils ein Vertragsjahr. Die jeweils aktuellen
+Pflegesätze ergeben sich aus der jeweils aktuellen Verkaufspreisliste. Sie betragen
+
+     ·    18 % für ELOprofessional-Grundfunktion (z.B.: Server, Client); ELOprofessional-Grundmodule (z.B.: Fulltext, OCR,
+          Internet Gateway, Mobile, Replikation, Barcode, COLD, Lotus Notes)
+
+     ·    max.35% für ELOprofessional-Spezialmodule
+          (z.B.: sämtliche CAD-Module zu diesem Pflegesatz bedeutet das ,,Voll-Pflege", d.h. Anpassungen an aktuelle Windows-,
+          ELO und CAD-Versionen)
+
+der jeweils aktuellen Listen-Lizenzkosten der eingesetzten Software und Module gemäß der zum Zeitpunkt des Vertragsschlusses
+geltenden Lizenzverkaufspreisliste. Bei Abschluss des Vertrages ist somit die Preisliste der jeweils aktuellen Softwareversion die
+anzuwendende Bezugsgröße. Es ist damit der Listenpreis der Software-Version relevant, die jeweils aktuell zu pflegen sein wird.
+
+(3) Die Pflegebeträge sind im voraus zu zahlen. Es werden nachfolgende Zahlungsweisen angeboten:
+
+·    jährlich auf Rechnung am Anfang des Kalenderjahres bzw. zu Beginn der Laufzeit
+
+·    quartalsweise per Lastschrift: Zuschlag von 1,5 % auf die Pflegegebühren.
+
+·    monatlich per Lastschrift.Zuschlag von 3,0 % auf die Pflegegebühren.
+
+Die Pflegegebühren werden mit dem im Deckblatt zu dieser Vereinbarung bezeichneten Laufzeitbeginn unmittelbar mit einer
+Zahlungsfrist von 14 Tagen netto fällig. Ein Skontoabzug ist nicht statthaft.
+
+(4) Jährlich erfolgt zum Jahresende eine Überprüfung des Lizenzbestandes laut Systemschein sowie, falls erforderlich eine
+Aktualisierung und Verrechnung der tatsächlich im Einsatz befindlichen Lizenzen und Module für das gelaufene mit dem folgenden
+Wartungsjahr. Damit wird eine jährliche Anpassung der zu entrichtenden Wartungsgebühr an die tatsächlich installierten Lizenzen
+und Module und somit eine ständige Anpassung an die neue tatsächliche Installationslage vorgenommen.
+(5) Eine Anpassung der Pflegegebühren für den laut Systemschein zu pflegenden Lizenzbestand erfolgt lediglich bei einem
+Major-Releasewechsel und der damit nach dieser Vereinbarung verbundenen Aktualisierung auf die dann aktuelle Software-Version.
+Als Bezugsgröße zur Berechnung der Pflegegebühren gilt die damit neu verabschiedete Lizenz-Verkaufspreisliste. Der
+Auftragnehmer hat die Verpflichtung, den Auftraggeber über eine derartige Änderung 1 Monat vor Inkrafttreten zu informieren. Diese
+Aktualisierung gilt nicht als Änderung der grundsätzlichen Vertragsbeziehung, fällt somit nicht unter das allgemeine
+Schriftformerfordernis, so dass aufgrund der bestehenden Geschäftsbeziehung eine Mitteilung per E-Mail genügt.
+
+§5        Vertragslaufzeit, Fristen und Kündigung
+
+(1) Dieser Vertrag läuft ab dem als Beginn der Laufzeit auf dem Deckblatt bezeichneten Datum, spätestens ab dem der Abnahme
+und der beidseitigen Unterzeichnung folgenden kompletten Monat für unbestimmte Zeit, jedoch mindestens 1 Jahr.
+
+(2) Er ist durch den Kunden kündbar zum Ende eines jeden Geschäftsjahres (31.12.) mit einer Frist von 3 Monaten. Auch ohne
+Kündigung endet der Pflegevertrag automatisch am gleichen Tag, an dem der diesem Vertrag zugrunde liegende
+Software-Nutzungsvertrag (gültiger Kaufvertrag über die Software mit Akzept der Software Lizenz- und Nutzungsbestimmungen)
+durch Wandlung, Rücktritt oder außerordentliche Kündigung endet.
+
+(3) Der Auftragnehmer kann den Vertrag nur kündigen, wenn der Auftraggeber den Vertrag auf schwere Weise verletzt und diese
+Verletzung trotz einmaliger Mahnung nicht rückgängig macht. In diesem Falle ist eine Rückerstattung der Lizenzgebühr
+ausgeschlossen.
+
+(4) Das Recht auf außerordentliche Kündigung gemäß BGB, insbesondere das Recht zur Kündigung des Vertrages aus wichtigem
+Grund bleibt davon unberührt. Wichtige Gründe sind zunächst schwere und nachhaltige Verletzungen der vertraglichen Pflichten der
+Parteien sowie nachhaltige und dauerhafte Veränderungen wesentlicher wirtschaftlicher und / oder technischer
+Rahmenbedingungen sein, die die Parteien dem Vertragsschluss zu Grunde gelegt haben. In diesem Falle ist vor Ausspruch einer
+Kündigung vorrangig zu prüfen, ob eine Anpassung des Vertrages unter Abwägung der Interessen beider Vertragsparteien möglich
+und zumutbar ist.
+
+§6        Haftung und Pflichtverletzungen
+
+(1) Der Auftragnehmer haftet bei Vorsatz und grober Fahrlässigkeit nach den gesetzlichen Vorschriften. Bei leichter Fahrlässigkeit
+haftet der Auftragnehmer nur, wenn eine wesentliche Vertragspflicht (Kardinalspflicht) verletzt wird oder ein Fall des Verzugs oder
+der Unmöglichkeit vorliegt. Im Fall einer Haftung aus leichter Fahrlässigkeit wird diese Haftung auf solche Schäden begrenzt, die
+vorhersehbar bzw. typisch sind. Eine Haftung für das Fehlen der garantierten Beschaffenheit, wegen Arglist, für Personenschäden,
+Rechtsmängel, nach dem Produkthaftungsgesetz und dem Bundesdatenschutzgesetz bleibt unberührt.
+
+(2) Im Fall einer Inanspruchnahme des Auftragnehmers aus Gewährleistung oder Haftung ist ein Mitverschulden des Anwenders
+angemessen zu berücksichtigen, insbesondere bei unzureichenden Fehlermeldungen oder unzureichender Datensicherung.
+Unzureichende Datensicherung liegt insbesondere dann vor, wenn der Auftraggeber es versäumt hat, durch angemessene, dem
+Stand der Technik entsprechende Sicherungsmaßnahmen gegen Einwirkungen von außen, insbesondere gegen Computerviren und
+sonstige Phänomene, die einzelne Daten oder einen gesamten Datenbestand gefährden können, Vorkehrungen zu treffen.
+
+(3) Der Auftraggeber wird unverzüglich nach jeder wesentlichen Hard- und Softwareänderung, Installation,
+Mängelbeseitigungs-arbeiten, Wartungsarbeiten oder sonstigen Eingriffen vom Auftragnehmer am EDV-System eine Überprüfung
+selbst durchführen und dokumentieren oder beauftragen, ob die Funktionsfähigkeit der Datensicherung (Prüfung der gesicherten
+Daten auf Vollständigkeit und Wiederherstellbarkeit) noch gegeben ist und das Ergebnis schriftlich festhalten. Der Auftraggeber trägt
+dafür Sorge, dass eine zuverlässige, zeitnahe und umfassende Datenroutine die Datensicherung gewährleistet.
+
+(4) Liegt aus der Sicht des Auftraggebers in der Leistungssphäre des Auftragnehmers eine Pflichtverletzung vor, so wird er vor
+gerichtlicher Geltendmachung, Minderung, Kündigung oder Aufrechnung den Auftraggeber unter schriftlicher Setzung einer
+angemessenen Frist zur Behebung konkreter Beanstandungen auffordern.
+(5) Ein Anspruch auf eine neue Dokumentation besteht nicht bei jeder Änderung der Software, sondern nur bei wesentlichen
+Änderungen, die eine neue Instruktion des Anwenders zwingend erforderlich machen.
+
+§7        Sonstiges
+
+(1) Änderungen, Ergänzungen, Erklärungen, Mitteilungen und notwendige oder sonstige Zustimmungserklärungen bedürfen zu ihre
+Wirksamkeit der Schriftform. Eine Erklärung gemäß E-Mail genügt hierzu nicht.
+
+(2) Sollten einzelne Bestimmungen dieses Vertrages unwirksam sein oder ihre Wirkung verlieren, so wird hierdurch der übrige Inhalt
+dieses Vertrages nicht berührt. Die Vertragsparteien verpflichten sich, in diesem Falle zusammenzuwirken, um die unwirksame
+Regelung durch eine Bestimmung zu ersetzen, welche dem wirtschaftlichen Zweck dieses Vertrages entspricht. Entsprechendes gilt
+für den Fall, dass sich bei der Anwendung dieses Vertrages Lücken in den vertraglichen Regelungen ergeben sollten.
+
+ (3) Die Vertragspartner übernehmen die gegenseitige Verpflichtung zur Geheimhaltung aller Betriebsgeheimnisse (Informationen,
+Pläne, Zeichnungen, Unterlagen, Datenträger, Know How etc.), soweit diese nicht vor dem Empfangsdatum der Öffentlichkeit
+bekannt oder allgemein zugänglich waren oder der Öffentlichkeit nach dem Empfangsdatum bekannt oder allgemein zugänglich
+wurden, ohne dass die Vertragspartner hierfür verantwortlich sind oder den Vertragspartnern zu einem beliebigen Zeitpunkt von
+einem dazu berechtigten Dritten zugänglich gemacht worden ist. Derartige Betriebsgeheimnisse werden die Vertragspartner nur im
+Rahmen der ihnen gestellten Aufgaben benutzen. Die Vertragspartner werden sie Dritten gegenüber geheim halten. Kopien von
+Aufzeichnungen jeder Art werden nur mit ausdrücklicher Zustimmung des Vertragspartners angefertigt. Ausschussmaterial wird
+unter Aufsicht vernichtet.
+
+ (4) Diese Verpflichtung gilt auch für die Zeit nach Beendigung der Zusammenarbeit. Bei Ende der Zusammenarbeit werden die
+Vertragspartner alle Unterlagen herausgeben und keinerlei Kopien oder Aufzeichnungen, auch soweit sie diese Unterlagen selbst
+erarbeitet haben, zurückbehalten.
+
+(5) Der vorliegende Vertrag gilt in Rechten und Pflichten auch für alle Rechtsnachfolger der Vertragsparteien, sofern keine der
+Vertragsparteien der Fortsetzung des Vertrages ausdrücklich schriftlich widerspricht.
+
+(6) Gerichtsstand für alle Streitigkeiten aus diesem Vertrag, sowie sich hieraus ableitenden Verträgen, ist Stuttgart. Es gilt deutsches
+Recht unter Ausschluss des UN-Kaufrechts.
+Reisekosten und Dienstleistungssätze
+
+Tagessätze:
+
+Sofern der Auftragnehmer zur Programmfehlerbeseitigung vor Ort aufgefordert wird und es stellt sich
+nachträglich herausstellt, dass der Auftragnehmer die Programmfehlerursache nicht zu vertreten hat, ist
+der Auftragnehmer berechtigt, die ihm mit diesem Einsatz entstandenen Kosten gemäß nachfolgendem
+Ansatz geltend zu machen.
+
+Die bei diesen Einsätzen angefallenen Aufwände werden nachfolgenden Sätzen berechnet:
+
+·   Einsatz vor Ort, Montag bis Freitag,
+    Regelzeit: 09:00 bis 17:00                 Regelsatz in Höhe von 125,00  pro Stunde
+
+·   Einsatz vor Ort, Montag bis Freitag,
+    außerhalb der Regelzeit                    zzgl. 25% des Regelsatzes
+
+·   Einsatz vor Ort, Samstag, Sonntag,
+    außerhalb der Regelzeit                    zzgl. 50% des Regelsatzes
+
+·   Einsatz vor Ort, gesetzliche Feiertage,
+    außerhalb der Regelzeit                    zzgl. 100% des Regelsatzes
+
+
+
+Reisekosten:
+
+Reisen zu den projektrelevanten Standorten des Auftraggebers werden nach Aufwand zu den
+nachfolgenden Sätzen berechnet:
+·   PKW pro Reisekilometer                      0,35
+
+·   Flug                                       Economy class
+
+·   Bahnfahrt                                  1. Klasse
+
+·   Mietwagen                                  Mittelklasse
+
+·   Öffentliche Verkehrsmittel
+    Taxi und Parkgebühren                      nach Aufwand
+
+·   Hotel                                      nach Aufwand, maximal 4 Sterne
+
+·   Tagesspesen                                nach geltenden steuerlichen Regeln
+
+·   Reisezeiten                                zu 50 % des Regelsatzes
+
+
+
+Der Auftragnehmer wählt das nach den Umständen schnellste Verkehrsmittel bzw. die jeweils
+angemessene Übernachtungsmöglichkeit. Reisekosten können unabhängig von dem Projektverlauf bei
+Vorliegen der oben angeführten Voraussetzungen auch einzeln abgerechnet werden.
+
+Alle genannten Preise verstehen sich zzgl. der jeweils geltenden ges. MwSt.
+

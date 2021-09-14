@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="NotifyAgent">
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/ERPGUIView.java</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/ERPGUIApp.java</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/ErrorTab.java</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/build.xml</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/build.properties</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/LicenseTab.java</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/FilesTab.java</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/Config.java</file>
+        </group>
+        <group name="ERPconnector">
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/Config.java</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/resources/ExpertTab.properties</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/GeneralTab.java</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/LicenseTab.java</file>
+            <file>file:/home/stefan/GIT/DOKinform/Projects/ERPconnector/ERP_Config/src/de/arivato/erp/gui/ERPGUIApp.java</file>
+        </group>
+        <group name="ERPConnector"/>
+        <group/>
+    </open-files>
+</project-private>

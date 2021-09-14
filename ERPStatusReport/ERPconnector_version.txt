@@ -1,0 +1,23 @@
+Versionsgeschichte DOKinform ERPconnector
+===================================================================
+
+9.0.0 (Build .1.423)    13.04.2015    
+                           -  Statusseite wird richtig angezeigt
+9.0.0 (Build .1.413)    30.03.2015    
+                           -  Aktuelle ERP-Config wurde angebunden
+9.0.0 (Build .1.412)    30.03.2015    
+                           -  Buildnummer wird inkrementiert
+9.0.0 (Build .1.409)    25.03.2015    
+                           -  Korrekte Trigger.PollTime wird aus config.properties ermittelt
+9.0.0 (Build .1.409)    12.03.2015    
+                           -  Standart config.properties wird in conf-Ordner angelegt
+9.0.0 (Build .1.409)    25.02.2015    
+                           -  Statusseite wurde angepasst. Anzahl von durchgeführten Aktionen wird im Log ausgegeben. XML-Erstellung funktioniert auch mit Sonderzeichen
+9.0.0 (Build .1.409)    24.02.2015    
+                           -  Die konfigurierbare Eigenschaft MaxFilesPerRun wird berücksichtigt.
+9.0.0 (Build .1.409)    20.02.2015    
+                           -  Lizenzkontrolle fehlt
+9.0.0 (Build .1.409)    24.11.2014    
+                           -  Tipfehler in Log wurden behoben
+9.0.0 (Build .1.409)    21.11.2014    
+                           -  Die erste Version von ERPconnector 9.0.0

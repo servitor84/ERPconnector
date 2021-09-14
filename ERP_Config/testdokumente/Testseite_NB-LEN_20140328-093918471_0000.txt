@@ -1,0 +1,41 @@
+                                                                                                          ARIVATO
+                              Windows-                                                                     TECHNOLOGY CAN BE SO EASY
+
+
+
+                              Druckertestseite
+    ARIVATO GmbH · Karlstrasse 5 · D-64367 Mühltal (bei Darmstadt)
+Konfiguration abgeschlossen
+Wenn Sie diese Informationen lesen können, wurde der FreePDF_XP richtig auf
+NB-LEN installiert.
+Nachfolgend finden Sie Informationen über den Druckertreiber und die
+Anschlusseinstellungen.
+Gesendet:                     09:39:13 28.03.2014
+Computername:                 NB-LEN
+Druckername:                  DOKinform ERPconnector PDF
+Druckermodell:                FreePDF_XP
+Farbdrucker:                  Ja
+Anschlussname(n):             FreePDFXP2:
+Datenformat:                  RAW
+Freigabename:                 DIERPPDF
+Standort:
+Kommentar:
+Treibername:                  PSCRIPT5.DLL
+Datendatei:                   freepdfxp.ppd
+Konfig.-Datei:                PS5UI.DLL
+Hilfedatei:                   PSCRIPT.HLP
+Treiberversion:               6.00
+Umgebung:                     Windows x64
+Zusätzliche Treiberdateien:
+ C:\Windows\system32\spool\DRIVERS\x64\3\PSCRIPT.NTF
+ C:\Windows\system32\spool\DRIVERS\x64\3\PS_SCHM.GDL
+Dies ist das Ende der Testseite.
+
+
+
+
+     Gesellschaft      ARIVATO GmbH · Karlstrasse 5 · D-64367 Mühltal (bei Darmstadt)
+     Kontakt           Tel. +49-6151-1015592 · Fax +49-321-21197-414 · hello@arivato.de · www.arivato.de
+     Bankverbindung    Frankfurter Volksbank eG · BLZ 501 900 00 · Konto 635 782
+     Einträge          Geschäftsführer Dipl.-Ing. Constantin Stefan · AG Darmstadt HRB 8889 · Ust.-ID-Nr. DE 814 866 002
+

@@ -1,0 +1,9 @@
+client=ARIVATO GmbH
+ELO-version=Professional
+ERP-system=TEST
+license-type=2 ERP user
+product=DOKinform ERPconnector for ELO
+ELO-key=ARIVATO GmbH
+expiration-date=Sat Dec 31 00:00:00 CET 2011
+bytes2=493291409c919daf71ae0ba491aa513ef34c1595
+bytes1=771f78565f36d0eaf93b7f97940ae6363993ff7a
